@@ -1,0 +1,70 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{website:OLPC}
+\BIBentryALTinterwordspacing
+(2005) One laptop per child. [Online]. Available:
+  \url{http://laptop.media.mit.edu/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{thesis:Laneman01}
+J.~N. Laneman, ``Cooperative diversity in wireless networks: algorithms and
+  architectures,'' Ph.D. dissertation, MIT, Cambridge, MA, Sept. 2002.
+
+\bibitem{article:Laneman01}
+J.~N. Laneman, D.~N.~C. Tse, and G.~W. Wornell, ``Cooperative diversity in
+  wireless networks: Efficient protocols and outage behavior,'' \emph{{IEEE}
+  Trans. Inform. Theory}, vol.~50, pp. 3062--3080, Dec. 2004.
+
+\bibitem{article:Laneman02}
+J.~N. Laneman, G.~Wornell, and D.~N.~C. Tse, ``An efficient protocol for
+  realizing cooperative diversity in wireless networks,'' in \emph{Proc. {IEEE}
+  Int. Symp. Information Theory (ISIT)}, Washington D.C., June 2001, p. 294.
+
+\bibitem{article:Hasna02}
+M.~O. Hasna and M.~Alouini, ``Performance analysis of two-hop relayed
+  transmission over rayleigh-fading channels,'' in \emph{Proc. {IEEE} Vehicular
+  Technology Conf.}, Vancouver, BC, Canada, Sept. 2002, pp. 1992--1996.
+
+\bibitem{article:Hasna01}
+------, ``Optimal power allocation for relayed transmissions over
+  rayleigh-fading channels,'' \emph{{IEEE} Trans. Wireless Commun.}, vol.~3,
+  pp. 1999--2004, Nov. 2004.
+
+\bibitem{article:Adve01}
+Y.~Zhao, R.~Adve, and T.~J. Lim, ``Improving amplify-and-forward relay
+  networks: Optimal power allocation versus selection,'' in \emph{Proc. {IEEE}
+  Int. Symp. Information Theory (ISIT)}, Seattle, July 2006, pp. 1234--1238.
+
+\bibitem{article:Ribeiro01}
+A.~Ribeiro, X.~Cai, and G.~B. Giannakis, ``Symbol error probabilities for
+  general cooperative links,'' \emph{{IEEE} Trans. Wireless Commun.}, vol.~4,
+  pp. 1264--1273, May 2005.
+
+\bibitem{article:Telatar01}
+$\dot{\mbox{I}}$. E.~Telatar, ``Capacity of multi-antenna gaussian channels,''
+  \emph{Eur. Trans. Telecom. ETT}, vol.~10, pp. 585--596, Nov. 1999.
+
+\bibitem{book:Stuber01}
+G.~L. St{\"{u}}ber, \emph{Principles of Mobile Communications}, 2nd~ed.\hskip
+  1em plus 0.5em minus 0.4em\relax Norwell, MA: Kluwer Academic Publishers,
+  2001.
+
+\end{thebibliography}
